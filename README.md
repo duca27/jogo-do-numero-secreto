@@ -65,4 +65,4 @@ function reiniciarJogo() {
 }
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![jogo2](https://github.com/duca27/jogo-do-numero-secreto/assets/152569671/b1178f48-1487-4bce-8430-93f9bda3ee35)
